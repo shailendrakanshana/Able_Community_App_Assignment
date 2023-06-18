@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959535385731",
+    "project_id": "able-community-app",
+    "storage_bucket": "able-community-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959535385731:android:8c1fbd362fc27ce10e1fb6",
+        "android_client_info": {
+          "package_name": "com.example.ablecommunityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959535385731-4spbqb6f58nkecvp91haidu2646e0lab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WVWSe8MoQROi0yurQU6lRuKxkHN9wLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959535385731-4spbqb6f58nkecvp91haidu2646e0lab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
